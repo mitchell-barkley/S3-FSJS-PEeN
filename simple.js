@@ -7,7 +7,7 @@ const PORT = 3000;
 // app.post   //CREATE html
 // app.get    //READ html
 // app.put    //UPDATE
-// app.patch  //UPDATE 
+// app.patch  //UPDATE
 // app.delete //DELETE
 
 app.get("/", (request, response) => {
